@@ -121,6 +121,5 @@ cd <name>
                   then migrate by using 
                         php artisan migrate (it will store in the database)
       then all the route as been include 
-
       to see output use 
       php artisan serve(it's server)
